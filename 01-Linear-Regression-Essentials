@@ -1,0 +1,39 @@
+## What is Linear Regression?
+###### Linear regression is a fundamental statistical technique used to model the relationship between two continuous variables. It's used to predict the value of a dependent variable (y) based on the value of an independent variable (x)1.
+
+###### Key Concepts
+Dependent Variable (y): The variable you are trying to predict or explain.
+
+Independent Variable (x): The variable you are using to make predictions.
+
+Regression Line: The best-fitting straight line through the data points.
+
+Equation of the Line: 
+𝑦 = 𝑏0 + 𝑏1 ⋅ 𝑥 
+where 𝑏0 is the intercept and 𝑏1 is the slope.
+
+###### Steps to Perform Linear Regression
+Collect Data: Gather data for the dependent and independent variables.
+
+Plot Data: Create a scatter plot to visualize the relationship between the variables.
+
+Fit the Model: Use statistical software to fit the regression line to the data.
+
+Interpret Results: Analyze the slope and intercept to understand the relationship.
+
+Make Predictions: Use the regression equation to predict new values.
+
+###### Applications
+Linear regression is widely used in various fields such as economics, biology, engineering, and social sciences to predict outcomes and understand relationships between variables.
+
+###### Advantages and Limitations
+Advantages: Simple to understand and interpret, computationally efficient, and provides clear insights into relationships.
+
+Limitations: Assumes a linear relationship, sensitive to outliers, and may not capture complex relationships.
+
+###### Resources for Learning
+GraphPad's Ultimate Guide to Linear Regression: A comprehensive guide to understanding and running linear regression models.
+
+Machine Learning Expedition: An introduction to linear regression for data science, covering concepts, examples, and applications in Python.
+
+DataCamp: Tutorials on simple linear regression, including model equations, assumptions, and diagnostics.
